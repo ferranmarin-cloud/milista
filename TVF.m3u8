@@ -135,8 +135,51 @@ https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c
 #EXTINF:-1, BLOOMBERG
 https://www.bloomberg.com/media-manifest/streams/us.m3u8
 
+
+#EXTINF:-1, BLOOMBERG QUICKTAKE
+https://bloomberg-quicktake-1-be.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:-1, TELESUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
 #EXTINF:-1, AL JAZEERA
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1, NHK WORLD
+https://cdn.nhkworld.jp/www11/nhkworld-tv/domestic/2003459/live.m3u8
+
+#EXTINF:-1, INDIA TODAY
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+
+#EXTINF:-1, TVGE
+https://rrsatrtmp.tulix.tv/tvge1/tvge1multi.smil/playlist.m3u8
+
+#EXTINF:-1, ABC NEWS AU
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+
+#EXTINF:-1, BBC NEWS NORTH AMERICA
+http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+
+#EXTINF:-1, BBC ONE
+https://x.canlitvapp.com/u-bbc-1/index.m3u8
+
+#EXTINF:-1, BBC TWO
+https://x.canlitvapp.com/u-bbc2/index.m3u8
+
+#EXTINF:-1, CBC NEWS
+https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master.m3u8
+
+#EXTINF:-1, CNBC
+http://fl2.moveonjoy.com/CNBC/index.m3u8
+
+#EXTINF:-1, ITV 1
+http://92.114.85.72:8000/play/a0lu
+
+#EXTINF:-1, ITV 2
+http://92.114.85.77:8000/play/a041
+
+#EXTINF:-1, ITV 2
+http://92.114.85.77:8000/play/a04z
+
+
+
