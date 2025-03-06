@@ -179,3 +179,45 @@ http://92.114.85.77:8000/play/a041
 
 #EXTINF:-1, ITV 2
 http://92.114.85.77:8000/play/a04z
+====================================
+#EXTINF:-1, RADIO NACIONAL
+https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r1_main.m3u8
+
+#EXTINF:-1, SER
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3
+
+#EXTINF:-1, esRADIO
+https://libertaddigital-libremercado-live.flumotion.com/libertaddigital/libremercado-high.aac
+
+#EXTINF:-1, ONDA CERO
+https://atres-live.ondacero.es/live/ondacero/master.m3u8
+
+#EXTINF:-1, RADIO 5
+https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r5_madrid_main.m3u8
+
+#EXTINF:-1, COPE
+https://flucast09-h-cloud.flumotion.com/cope/net1.mp3
+
+#EXTINF:-1, ONDA MADRID
+https://tvradio-1-23-secure2.akamaized.net/master.m3u8
+
+#EXTINF:-1, INFORMA RADIO
+https://24x7.red:42045/informa
+
+#EXTINF:-1, RAC1
+https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_1.mp3
+
+#EXTINF:-1, CATALUNYA RÀDIO
+https://directes-radio-int.3catdirectes.cat/live-content/catalunya-radio-hls/master.m3u8
+
+#EXTINF:-1, CATALUNYA INFORMACIÓ
+https://directes-radio-int.3catdirectes.cat/live-content/catalunya-informacio-hls/master.m3u8
+
+#EXTINF:-1, À PUNT
+https://bcovlive-a.akamaihd.net/0841326767184ef7acc0489071ec64da/eu-central-1/6057955885001/playlist_dvr.m3u8
+
+#EXTINF:-1, MSNBC
+https://19313.live.streamtheworld.com/NBC_MSNBCAAC/HLS/playlist.m3u8
+
+#EXTINF:-1, KABC
+https://playerservices.streamtheworld.com/api/livestream-redirect/KABCAM.mp3
